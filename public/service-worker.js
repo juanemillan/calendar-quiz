@@ -1,5 +1,5 @@
 // public/service-worker.js
-const CACHE = "calendar-quiz-v1";
+const CACHE = "calendar-quiz-v2";
 const ASSETS = ["/", "/index.html", "/manifest.webmanifest"];
 
 // Instalar y cachear shell
