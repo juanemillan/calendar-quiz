@@ -1,5 +1,5 @@
 // public/service-worker.js
-const CACHE = "calendar-quiz-v4";
+const CACHE = "calendar-quiz-v5";
 const STATIC_ASSETS = [
   "/",
   "/index.html",
