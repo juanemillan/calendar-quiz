@@ -1,0 +1,13 @@
+# deps
+node_modules
+pnpm-lock.yaml
+yarn.lock
+
+# build
+dist
+*.log
+
+# env/OS
+.env
+.DS_Store
+Thumbs.db
