@@ -108,9 +108,9 @@ export default function App() {
 
   return (
     <main className="min-h-screen grid place-items-center p-6
-                 bg-linear-to-br from-cyan-50 via-white to-blue-100">
+                 bg-linear-to-br from-[#0ea5e9] to-[#3b82f6]">
         <div className="w-full max-w-lg mx-auto">
-        <header className="mb-6 text-center">
+        <header className="mb-6 text-center bg-white rounded-2xl shadow-md p-5">
           <h1 className="text-3xl font-extrabold tracking-tight text-slate-900">
             🧠 Quiz de Memoria de Calendario
           </h1>
