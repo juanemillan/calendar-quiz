@@ -203,7 +203,7 @@ export default function App() {
           </section>
         )}
 
-        <footer className="mt-6 text-center text-xs text-slate-500">MVP • PWA • React + Tailwind v4</footer>
+        <footer className="mt-6 text-center text-xs text-white">MVP • PWA • React + Tailwind v4</footer>
       </div>
     </main>
   );
